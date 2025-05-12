@@ -1,6 +1,6 @@
 {
 	"name": "tagged-tag",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Unique tag for use in the type-fest Tagged type",
 	"license": "MIT",
 	"repository": "sindresorhus/tagged-tag",
